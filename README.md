@@ -25,3 +25,6 @@ El objetivo de este proyecto es entender cómo utilizar Git para controlar versi
 - `git commit`: Realiza un commit con los cambios.
 - `git branch`: Crea y gestiona ramas.
 - `git merge`: Fusiona ramas.
+## Nueva Funcionalidad
+
+- Se añadió una nueva sección al archivo `README.md` para describir los pasos adicionales que se realizaron en este proyecto.
